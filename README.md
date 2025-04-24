@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:00e0bb,100:00c26e&height=180&text=Hello%20Wolrd🤚%20I'm%20Daye!!&animation=&fontColor=40a080&fontSize=60" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:00e0bb,100:00c26e&height=180&text=Hello%20World🤚%20I'm%20Daye!!&animation=&fontColor=40a080&fontSize=60" />
 </div>
 
 ### 🛠️ Tech Stacks & Languages
