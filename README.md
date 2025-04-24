@@ -28,10 +28,10 @@
 
 ### 📁 Repository
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EstherC1150&repo=DaeDaNae&theme=blueberry)](https://github.com/EstherC1150/DaeDaNae)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EstherC1150&repo=DaeDaNae_NodeVue&theme=blueberry)](https://github.com/EstherC1150/DaeDaNae_NodeVue)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EstherC1150&repo=Dr.ComeProject&theme=blueberry)](https://github.com/EstherC1150/Dr.ComeProject)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EstherC1150&repo=Web_SPESATE&theme=blueberry)](https://github.com/EstherC1150/Web_SPESATE)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EstherC1150&repo=DaeDaNae&theme=blueberry&cache_seconds=60)](https://github.com/EstherC1150/DaeDaNae)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EstherC1150&repo=DaeDaNae_NodeVue&theme=blueberry&cache_seconds=60)](https://github.com/EstherC1150/DaeDaNae_NodeVue)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EstherC1150&repo=Dr.ComeProject&theme=blueberry&cache_seconds=60)](https://github.com/EstherC1150/Dr.ComeProject)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EstherC1150&repo=Web_SPESATE&theme=blueberry&cache_seconds=60)](https://github.com/EstherC1150/Web_SPESATE)
 
     
 ### 🧑‍💻 Contact me
