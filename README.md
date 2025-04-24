@@ -25,6 +25,14 @@
 ![Daye's GitHub stats](https://github-readme-stats.vercel.app/api?username=EstherC1150&show_icons=true&theme=aura)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EstherC1150&layout=compact&theme=neon)
+
+### 📁 Repository
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EstherC1150&repo=DaeDaNae&theme=blueberry)](https://github.com/EstherC1150/DaeDaNae)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EstherC1150&repo=DaeDaNae_NodeVue&theme=blueberry)](https://github.com/EstherC1150/DaeDaNae_NodeVue)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EstherC1150&repo=Dr.ComeProject&theme=blueberry)](https://github.com/EstherC1150/Dr.ComeProject)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EstherC1150&repo=Web_SPESATE&theme=blueberry)](https://github.com/EstherC1150/Web_SPESATE)
+
     
 ### 🧑‍💻 Contact me
 [<img align="left" alt="DAYE | Notion" width="48px" src="https://img.icons8.com/doodle/48/notion.png" />][notion]
