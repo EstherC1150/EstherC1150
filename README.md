@@ -23,24 +23,15 @@
 
 ### 🤔 Stats
 
-<div align="center">
-
 ![Daye's GitHub stats](https://github-readme-stats.vercel.app/api?username=EstherC1150&show_icons=true&theme=aura)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EstherC1150&layout=compact&theme=neon)
 
-</div>
+
 
 ### 📁 Repository
 
-<div align="center">
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EstherC1150&repo=DaeDaNae&theme=blueberry&cache_seconds=60)](https://github.com/EstherC1150/DaeDaNae)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EstherC1150&repo=DaeDaNae_NodeVue&theme=blueberry&cache_seconds=60)](https://github.com/EstherC1150/DaeDaNae_NodeVue)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EstherC1150&repo=Dr.ComeProject&theme=blueberry&cache_seconds=60)](https://github.com/EstherC1150/Dr.ComeProject)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EstherC1150&repo=Web_SPESATE&theme=blueberry&cache_seconds=60)](https://github.com/EstherC1150/Web_SPESATE)
-
-</div>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EstherC1150&repo=DaeDaNae_NodeVue&th
 
     
 ### 🧑‍💻 Contact me
