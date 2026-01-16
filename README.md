@@ -23,13 +23,27 @@
 
 ### 🤔 Stats
 
-![Daye's GitHub stats](https://github-readme-stats.vercel.app/api?username=EstherC1150&show_icons=true&theme=aura)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EstherC1150&layout=compact&theme=neon)
+<div align="center">
+
+![Daye's GitHub stats](https://github-readme-stats.vercel.app/api?username=EstherC1150&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EstherC1150&layout=compact&theme=radical)
+
+</div>
 
 ### 📁 Repository
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EstherC1150&repo=DaeDaNae&theme=blueberry&cache_seconds=60)](https://github.com/EstherC1150/DaeDaNae)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EstherC1150&repo=DaeDaNae_NodeVue&th
+<div align="center">
+
+[![DaeDaNae](https://github-readme-stats.vercel.app/api/pin/?username=EstherC1150&repo=DaeDaNae&theme=radical)](https://github.com/EstherC1150/DaeDaNae)
+
+[![DaeDaNae_NodeVue](https://github-readme-stats.vercel.app/api/pin/?username=EstherC1150&repo=DaeDaNae_NodeVue&theme=radical)](https://github.com/EstherC1150/DaeDaNae_NodeVue)
+
+[![Dr.ComeProject](https://github-readme-stats.vercel.app/api/pin/?username=EstherC1150&repo=Dr.ComeProject&theme=radical)](https://github.com/EstherC1150/Dr.ComeProject)
+
+[![Web_SPESATE](https://github-readme-stats.vercel.app/api/pin/?username=EstherC1150&repo=Web_SPESATE&theme=radical)](https://github.com/EstherC1150/Web_SPESATE)
+
+</div>
 
 ### 🧑‍💻 Contact me
 [<img align="left" alt="DAYE | Notion" width="48px" src="https://img.icons8.com/doodle/48/notion.png" />][notion]
